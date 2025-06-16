@@ -1,0 +1,3 @@
+include ChromoPattern/data/*.txt
+include ChromoPattern/data/*.newick
+include ChromoPattern/*.pyx
